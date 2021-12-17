@@ -1,0 +1,3 @@
+this file is created for question first of assignment eight.
+in this question we have to sort the words.
+then we find number of characters words and lines.
